@@ -1,0 +1,5 @@
+  {
+    "version": "2.0",
+    "url": "https://raw.githubusercontent.com/Murilo1704/cp02-motiva-ota/main/firmware_v2.bin",
+    "notes": "Firmware 2.0: ordenacao, mediana, histerese NORMAL/ALERTA e LED de estado"
+  }
