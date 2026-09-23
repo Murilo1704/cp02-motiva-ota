@@ -11,7 +11,7 @@ Nó IoT de monitoramento de vegetação em rodovias, simulado com **ESP32 no Wok
 | Stefanny Brum | 566216 |
 | Enzo Hideki | 565052 |
 
-- **Projeto Wokwi:** COLE_AQUI_O_LINK_PUBLICO_DO_WOKWI
+- **Projeto Wokwi:** https://wokwi.com/projects/475999244753427457
 - **Repositório OTA:** https://github.com/Murilo1704/cp02-motiva-ota
 
 ---
